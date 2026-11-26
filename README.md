@@ -1,32 +1,30 @@
-# yo, I’m Sarthak 👋
+# Sarthak Tiwari
 
-I’m a 14-year-old developer who likes building useful stuff, weird side projects, and websites that are way more extra than they need to be.
+14-year-old developer building desktop tools, full-stack web apps, AI agents, and automation scripts.
 
-Right now I’m mostly messing with **Python**, **TypeScript / React**, desktop apps, AI research agents, computer vision, automation, and creative frontend work.
+Live sites: [doomsdaywatch.lol](https://doomsdaywatch.lol/) · [research-agent-taupe-eta.vercel.app](https://research-agent-taupe-eta.vercel.app)
 
-## what I’m building
+---
 
-- 🔬 **[Research Agent](https://github.com/Sarthakbotmfs/research-agent)** — an autonomous scholarly fact-checker & research engine that queries OpenAlex & Crossref, verifies citations, and streams live reports. ([Live Demo](https://research-agent-taupe-eta.vercel.app))
-- 🎬 **[Viddown](https://github.com/Sarthakbotmfs/Viddown-Open-Source-Video-Downloader)** — a Windows media downloader with a GUI, FFmpeg helpers, and a browser extension.
-- 🦾 **[Marathon Alert](https://github.com/Sarthakbotmfs/Marathon-Alert)** — computer vision that tells you when the “five-minute break” is finally over.
-- 🌀 **[Doomsdaywatch](https://github.com/Sarthakbotmfs/Doomsdaywatch)** — an MCU and multiverse watch tracker for the road to *Avengers: Doomsday*.
+## Projects
 
-## tech I’m into
+- **[Doomsdaywatch](https://github.com/Sarthakfullstack/Doomsdaywatch)** — MCU and multiverse watch tracker, chronological guide, and ticket stub archive ahead of *Avengers: Doomsday*. ([Live](https://doomsdaywatch.lol/))
+- **[Research Agent](https://github.com/Sarthakfullstack/research-agent)** — Evidence-grounded research engine that queries OpenAlex and Crossref, classifies citations, and streams live reports over SSE. ([Live](https://research-agent-taupe-eta.vercel.app))
+- **[Viddown](https://github.com/Sarthakfullstack/Viddown-Open-Source-Video-Downloader)** — Windows desktop video and audio downloader built with `yt-dlp`, `CustomTkinter`, FFmpeg helpers, and a companion browser extension.
+- **[Marathon Alert](https://github.com/Sarthakfullstack/Marathon-Alert)** — Windows computer-vision utility using YOLOv8 to monitor screen regions and trigger desktop/phone alerts when breaks end.
+- **[Discord Manager Bot](https://github.com/Sarthakfullstack/discord-manager-bot)** — Node.js (`discord.js`) server management, welcome automation, and LLM-powered conversational bot with OpenRouter and Gemini fallback.
+- **[House of Shinobi Mod](https://github.com/Sarthakfullstack/house-of-shinobi-mod)** — In-game stat, inventory, calendar, and gallery menu mod for *House of Shinobi* (Ren'Py).
 
-`Python` · `TypeScript` · `React` · `FastAPI` · `Tailwind CSS` · `JavaScript` · `CustomTkinter` · `YOLOv8` · `FFmpeg` · `SQLite` · `Vercel` · `GitHub Pages`
+---
 
-## outside the code editor
+## Stack
 
-Marvel, web design, trying random ideas, and probably adding one more feature when the project was already finished.
+`Python` · `TypeScript` · `React` · `FastAPI` · `Node.js` · `JavaScript` · `Tailwind CSS` · `CustomTkinter` · `YOLOv8` · `SQLite` · `FFmpeg`
 
-🌐 **Live Sites:** [Doomsdaywatch](https://doomsdaywatch.lol/) · [Research Agent](https://research-agent-taupe-eta.vercel.app)
+---
 
-## find me
+## Contact
 
-- 📧 Email: [easypeasy211211@gmail.com](mailto:easypeasy211211@gmail.com)
-- 💬 Discord: `Sarthakforsure`
-- 📸 Instagram: [@sarthakiguess_](https://instagram.com/sarthakiguess_)
-
-If you find something broken, have an idea, or just want to say hi, feel free to open an issue or message me.
-
-<!-- profile README: keeping it simple because nobody wants to read a corporate autobiography -->
+- Email: [easypeasy211211@gmail.com](mailto:easypeasy211211@gmail.com)
+- Discord: `Sarthakforsure`
+- Instagram: [@sarthakiguess_](https://instagram.com/sarthakiguess_)
