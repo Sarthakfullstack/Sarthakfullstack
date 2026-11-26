@@ -12,7 +12,6 @@ Live sites: [doomsdaywatch.lol](https://doomsdaywatch.lol/) · [research-agent-t
 - **[Research Agent](https://github.com/Sarthakfullstack/research-agent)** — Evidence-grounded research engine that queries OpenAlex and Crossref, classifies citations, and streams live reports over SSE. ([Live](https://research-agent-taupe-eta.vercel.app))
 - **[Viddown](https://github.com/Sarthakfullstack/Viddown-Open-Source-Video-Downloader)** — Windows desktop video and audio downloader built with `yt-dlp`, `CustomTkinter`, FFmpeg helpers, and a companion browser extension.
 - **[Marathon Alert](https://github.com/Sarthakfullstack/Marathon-Alert)** — Windows computer-vision utility using YOLOv8 to monitor screen regions and trigger desktop/phone alerts when breaks end.
-- **[Discord Manager Bot](https://github.com/Sarthakfullstack/discord-manager-bot)** — Node.js (`discord.js`) server management, welcome automation, and LLM-powered conversational bot with OpenRouter and Gemini fallback.
 - **[House of Shinobi Mod](https://github.com/Sarthakfullstack/house-of-shinobi-mod)** — In-game stat, inventory, calendar, and gallery menu mod for *House of Shinobi* (Ren'Py).
 
 ---
